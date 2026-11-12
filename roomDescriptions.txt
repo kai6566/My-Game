@@ -1,0 +1,122 @@
+yanas_office
+Professor Yana's office is small but carefully organized, with a wide desk positioned beneath a bulletin board full 
+of schedules, diagrams, and reminders. Several old MacBooks are stacked along one wall, waiting for someone to give 
+them another purpose. A set of desk drawers looks ordinary enough, but in a building full of puzzles, even ordinary 
+things deserve a closer look. An address book sits among the supplies. The office is quiet except for the soft hum 
+of a computer.
+You can go east to Fischbach's office or south to Dauber's office.
+#
+wests_office
+Professor West's office feels noticeably darker than the others. Half-closed blinds let narrow stripes of daylight 
+fall across shelves of books and a desk covered in carefully sorted folders. A computer monitor glows in the corner, 
+and a clock ticks loudly enough to make the silence uncomfortable. A few drawers are shut tight, while a rolling chair 
+faces the empty desk as though someone has just stepped away. The room feels like it might contain a secret, if you knew 
+where to look.
+#
+Daubers_office
+Professor Dauber's office is crowded with computer science textbooks, loose papers, and notes covered in code. A computer
+ sits between piles of assignments, and the desk has several drawers that invite a closer inspection. A notebook and a 
+ sheet of paper rest among the materials, possibly useful for keeping track of what you discover. A half-erased problem 
+ on a nearby whiteboard suggests that someone was working here recently.
+You can go north to Yana's office or south to John's office.
+#
+johns_office
+Professor John's office looks part classroom and part electronics workshop. Old circuit boards, spare cables, adapters, 
+and mysterious computer parts occupy nearly every shelf. A tool kit lies open beside a machine that appears to have been 
+taken apart and not quite put back together. The desk is cluttered, but everything seems to have a purpose. If the building 
+has a technological puzzle, this would be a sensible place to search for ideas.
+You can go north to Dauber's office or south to Classroom 2.
+#
+restroom
+This second-floor restroom is strangely still. Several stall doors stand partly open, while the mirrors above the sinks 
+reflect the harsh light of a flickering ceiling fixture. A trash can sits beside the entrance, and one faucet drips at 
+regular intervals. The tiled floor makes every step echo, making the room seem larger and emptier than it really is. 
+Nothing immediately looks out of place, but you might want to check carefully.
+You can go west to Classroom 2 or east to the other second-floor restroom.
+#
+classroom1
+Classroom 1 is arranged in neat rows of desks facing a whiteboard covered with faded marker lines. A projector hangs from 
+the ceiling, and a teacher's desk at the front has several drawers. Papers left near the board hint at a lesson that ended 
+in a hurry. Sunlight filters through the windows, lighting up the dust over the empty seats. It seems like the kind of place 
+where an overlooked assignment could be hiding.
+You can go north to Fischbach's office, south to the second-floor stairs, or west to Classroom 5.
+#
+classroom2
+Classroom 2 is a computer lab filled with workstations, keyboards, and rolling chairs. Most of the screens are dark, but the indicator 
+lights on a few machines still glow. The instructor's desk holds a keyboard, scattered notes, and drawers full of supplies. The faint sound
+ of cooling fans fills the room, making it easy to imagine a class just finishing a programming exercise. A useful clue could be sitting in plain 
+ sight.
+You can go north to John's office or east to the first second-floor restroom.
+#
+classroom3
+Classroom 3 contains long rows of desks facing a wide whiteboard and a ceiling-mounted projector. Several chairs are pushed out of place, as if students
+ left in a hurry. At the back of the room stands a locked cabinet, its metal handle worn from years of use. A pile of old worksheets rests on the teacher's 
+ desk. The locked cabinet is worth remembering, even if you cannot open it right now.
+You can go north to the lecture hall or east to the first-floor restroom.
+#
+Fischbachs_office
+Professor Fischbach's office is almost suspiciously tidy. Books line the shelves in perfect order, and a few New Jersey souvenirs are displayed beside framed
+ photographs. The desk is polished, with hardly a paper out of place. A small thumb drive lies among the items on the desk, easy to miss unless you pay attention.
+  Everything looks normal at first glance, but the careful arrangement makes you wonder what deserves a second look.
+You can go west to Yana's office or south to Classroom 1.
+#
+WU_Cast_station
+The WU Cast Station is packed with microphones, headphones, recording equipment, and computers ready for the next broadcast. Notes and tangled cables cover a small
+ desk, while soundproofing panels soften the noise of the building outside. A recording light above one workstation is dark, but the room still feels ready to go live
+  at any moment. You might learn something by examining what the previous crew left behind.
+You can go north to the TV Studio or south to the lobby.
+#
+TV_studio
+The TV Studio opens into a large production space filled with cameras, tripods, bright lights, and movable backdrops. Tape marks on the floor 
+show where presenters are supposed to stand, and a teleprompter faces the main camera. Heavy cables run toward the walls, connecting the equipment
+ to the control room. With no crew around, the studio feels like a set waiting for its next scene. Even ordinary equipment looks mysterious under the 
+ silent lights.
+You can go west to the Control Room or south to the WU Cast Station.
+#
+Control_room
+The Control Room overlooks the TV Studio through a wide glass window. Several monitors show empty camera views, while a console crowded with switches,
+ faders, and buttons stretches across the desk. Headsets hang beside the workstations, and bundles of audio and video cables disappear behind the equipment racks.
+  This is clearly where the broadcasts are managed. A careful explorer might find that the equipment offers more information than the room first suggests.
+You can go east to the TV Studio or south to the lecture hall.
+#
+Lecture_hall
+The Lecture Hall is spacious, with rows of seats descending toward a podium and a large projection screen. A microphone rests at the front, and faded notes 
+are still visible on a side whiteboard. The overhead lights give the empty room a quiet, almost theatrical feeling. Every footstep carries across the seats.
+A forgotten handout near the podium suggests someone left before finishing their work.
+You can go north to the Control Room or south to Classroom 3.
+#
+Classroom_5
+Classroom 5 is a quiet teaching space with desks arranged in small groups. A whiteboard fills the front wall, and a computer station sits beside a teacher's
+ desk fitted with several drawers. A few marker caps and scraps of paper have been left behind. The room looks ordinary, yet its silence makes you notice every
+  detail. If you are searching for something connected to a class assignment, checking the desk would make sense.
+You can go east to Classroom 1.
+#
+Restroom_2
+The first-floor restroom looks as if the cleaning crew has not visited in a while. Water spots cover the large mirror, a paper towel lies near the sinks, and
+ one stall door creaks whenever it moves. The lights buzz overhead, and the air has the faint smell of old cleaning products. It is not the most inviting place
+  in Freedom Hall, but even an unpleasant room might hide something useful.
+You can go west to Classroom 3 or east to the lobby.
+#
+lobby
+The first-floor lobby is the main gathering space of Freedom Hall. Notice boards display campus announcements, student events, and flyers that have started
+ to peel at the corners. Comfortable chairs sit near the walls, and footsteps echo across the open floor. From here, different parts of the building branch 
+ off in several directions. It feels like the natural place to get your bearings before continuing the search for a way out.
+You can go west to the first-floor restroom, north to the WU Cast Station, or east to the first-floor stairs.
+#
+upstairs_restroom_2
+This is the second restroom on the upper floor. Its clean tile, bright mirror, and evenly spaced sinks make it feel newer than the restroom next door.
+ Several stall doors are closed, and a hand dryer occasionally rattles when the air shifts. The quiet atmosphere might be reassuring if you were not trying
+  to escape a locked building. For now, nothing here seems to explain how to get outside.
+You can go west to the other second-floor restroom or east to the second-floor stairs.
+#
+First Floor Stairs
+A concrete staircase rises from the first floor toward the offices and classrooms above. Metal handrails run along the walls, and an emergency exit sign 
+casts a faint glow over the landing. The sound of your footsteps carries upward through the stairwell. From here, you can return to the familiar first-floor
+ lobby or head upstairs to explore more of Freedom Hall.
+You can go west to the lobby or up to the second-floor stairs.
+#
+Second Floor Stairs
+The second-floor stairwell connects the upper offices and classrooms with the floor below. A sturdy railing circles the landing, and the light from a narrow
+ window stretches across the steps. You can hear the building's ventilation system humming behind the walls.
+You can go north to Classroom 1, west to the second upstairs restroom, or down to the first-floor stairs.
+#
